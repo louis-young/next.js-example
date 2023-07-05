@@ -1,3 +1,3 @@
-# Everything
+# Next.js Example Everything
 
 ...
