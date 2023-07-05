@@ -1,3 +1,3 @@
-# Next.js Example Everything
+# Next.js Example
 
 ...
